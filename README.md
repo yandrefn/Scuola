@@ -1,4 +1,4 @@
 # Scuola
 repository di prova
 
-ciao
+ciao!
